@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "izh_04_basicCodingTask", "izh_04_basicCodingTask\izh_04_basicCodingTask.csproj", "{275AF81A-6FD0-4AB3-BF54-AED507CB3FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "izh_04_basicCodingUnitTests", "izh_04_basicCodingUnitTests\izh_04_basicCodingUnitTests.csproj", "{13AD0643-08AA-494E-8EB3-68E2AE37DA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275AF81A-6FD0-4AB3-BF54-AED507CB3FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275AF81A-6FD0-4AB3-BF54-AED507CB3FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275AF81A-6FD0-4AB3-BF54-AED507CB3FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275AF81A-6FD0-4AB3-BF54-AED507CB3FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AD0643-08AA-494E-8EB3-68E2AE37DA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AD0643-08AA-494E-8EB3-68E2AE37DA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AD0643-08AA-494E-8EB3-68E2AE37DA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AD0643-08AA-494E-8EB3-68E2AE37DA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCFB3CE7-ABA3-4717-A12D-FA6CF906EF10}
+	EndGlobalSection
+EndGlobal
